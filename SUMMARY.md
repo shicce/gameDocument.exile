@@ -7,4 +7,5 @@
 ## 系统设计
 
 * [1. 技能系统](xi-tong-she-ji/1.-ji-neng-xi-tong.md)
-* [Page 1](xi-tong-she-ji/page-1.md)
+* [2.地图生成](xi-tong-she-ji/2.-di-tu-sheng-cheng.md)
+* [3. Buff系统](xi-tong-she-ji/3.-buff-xi-tong.md)
