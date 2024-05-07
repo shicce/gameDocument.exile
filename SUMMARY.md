@@ -10,4 +10,5 @@
 * [2.地图生成](xi-tong-she-ji/2.-di-tu-sheng-cheng.md)
 * [3. Buff系统](xi-tong-she-ji/3.-buff-xi-tong.md)
 * [4.快捷键控制](xi-tong-she-ji/4.-kuai-jie-jian-kong-zhi.md)
-* [Page](xi-tong-she-ji/page.md)
+* [5.数据的存储与加载](xi-tong-she-ji/5.-shu-ju-de-cun-chu-yu-jia-zai.md)
+* [6.图鉴系统](xi-tong-she-ji/6.-tu-jian-xi-tong.md)
