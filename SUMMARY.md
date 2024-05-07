@@ -14,4 +14,4 @@
 * [6.图鉴系统](xi-tong-she-ji/6.-tu-jian-xi-tong.md)
 * [7.背包系统](xi-tong-she-ji/7.-bei-bao-xi-tong.md)
 * [8.终端](xi-tong-she-ji/8.-zhong-duan.md)
-* [Page](<xi-tong-she-ji/page (1).md>)
+* [9.掉落系统](xi-tong-she-ji/9.-diao-la-xi-tong.md)
