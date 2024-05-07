@@ -9,3 +9,5 @@
 * [1. 技能系统](xi-tong-she-ji/1.-ji-neng-xi-tong.md)
 * [2.地图生成](xi-tong-she-ji/2.-di-tu-sheng-cheng.md)
 * [3. Buff系统](xi-tong-she-ji/3.-buff-xi-tong.md)
+* [4.快捷键控制](xi-tong-she-ji/4.-kuai-jie-jian-kong-zhi.md)
+* [Page](xi-tong-she-ji/page.md)
