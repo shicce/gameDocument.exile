@@ -4,7 +4,7 @@
 
 **剧毒花蝶，无攻击性，产生在草地场景**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>攻击：射出子弹</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>攻击：射出子弹</p></figcaption></figure>
 
 **火灵，有攻击性，产生在岩浆场景**
 
