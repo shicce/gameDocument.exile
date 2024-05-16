@@ -34,4 +34,4 @@
 * [1.Worley噪声地图生成算法](7.-za-xiang/1.worley-zao-sheng-di-tu-sheng-cheng-suan-fa.md)
 * [2.OBB包围盒碰撞检测](7.-za-xiang/2.obb-bao-wei-he-peng-zhuang-jian-ce.md)
 * [3.四叉树](7.-za-xiang/3.-si-cha-shu.md)
-* [4.静态场景追踪算法](7.-za-xiang/4.-jing-tai-chang-jing-zhui-zong-suan-fa.md)
+* [4.静态场景简单追踪算法（SSST）](7.-za-xiang/4.-jing-tai-chang-jing-jian-dan-zhui-zong-suan-fa-ssst.md)
