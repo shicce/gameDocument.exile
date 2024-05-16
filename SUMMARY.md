@@ -28,3 +28,9 @@
 ***
 
 * [6.当前开发目标](6.-dang-qian-kai-fa-mu-biao.md)
+
+## 7.杂项
+
+* [1.Worley噪声地图生成算法](7.-za-xiang/1.worley-zao-sheng-di-tu-sheng-cheng-suan-fa.md)
+* [2.OBB包围盒碰撞检测](7.-za-xiang/2.obb-bao-wei-he-peng-zhuang-jian-ce.md)
+* [3.四叉树](7.-za-xiang/3.-si-cha-shu.md)
