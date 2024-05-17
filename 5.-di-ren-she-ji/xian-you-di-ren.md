@@ -1,6 +1,6 @@
 # 现有敌人
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **剧毒花蝶，无攻击性，产生在草地场景**
 
